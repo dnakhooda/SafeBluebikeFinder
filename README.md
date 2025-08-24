@@ -6,14 +6,14 @@ Safe Bluebike Finder is a web app that helps you find safe Bluebike stations aro
 <img src="https://github.com/user-attachments/assets/7c47f1f1-8866-4a76-93a6-bb825efcab62" width="600"/>
 <img src="https://github.com/user-attachments/assets/f75c4357-27fd-46f4-a242-bff6fc7c3ac5" width="600"/>
 
-<h2>Additional Features ✨</h2> 
+<h2>Additional Features</h2> 
 
-- View a Google Maps route to your selected station 🗺️
-- Detect your current device location 📍
-- Show or hide bike lanes on the map 🚴
-- Switch between light and dark mode ☀️🌙
+- View a Google Maps route to your selected station
+- Detect your current device location
+- Show or hide bike lanes on the map
+- Switch between light and dark mode
 
-<h2>How to Run Safe Bluebike Finder 🚴</h2>
+<h2>How to Run Safe Bluebike Finder</h2>
 Safe Bluebike Finder requires a Google Maps API key to function. Follow these steps to get started:
 <p> </p>
 
@@ -34,7 +34,7 @@ npm run dev
 ```
 - Open http://localhost:3000 with your browser to see Safe Bluebike Finder.
 
-<h2>Data Sources 📈</h2>
+<h2>Data Sources</h2>
 
 Our web app uses the following data:
 
