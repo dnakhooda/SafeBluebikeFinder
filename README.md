@@ -1,4 +1,4 @@
-<h1>🚴 Safe Bluebike Finder 🚴</h1>
+<h1>Safe Bluebike Finder</h1>
 
 Safe Bluebike Finder is a web app that helps you find safe Bluebike stations around Boston. Every Bluebike station around Boston has a safety score calculated based on publicly available data on bike accidents and bike fatalities. After inputting your location, Safe Bluebike Finder shows you all Bluebike stations within a 0.5-mile radius with their corresponding safety scores. By clicking on a station, you can see bike accident and bike fatality data for the area around the station.  
 
